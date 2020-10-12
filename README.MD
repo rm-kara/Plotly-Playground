@@ -7,3 +7,4 @@
 * https://community.plotly.com/t/plotly-express-histogram-any-way-to-sort-bar-by-value/23905/16
 * https://plotly.com/python/hover-text-and-formatting/
 * https://plotly.com/python/builtin-colorscales/
+* https://plotly.com/python/bar-charts/#bar-chart-with-sorted-or-ordered-categories
